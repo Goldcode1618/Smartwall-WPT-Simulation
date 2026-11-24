@@ -1,0 +1,28 @@
+{
+  "title": "Smartwall WPT Simulation: Coupled-Mode Near-Field Wireless Power Transfer with Fresnel RIS and Non-Linear Schottky Rectenna Modeling",
+  "description": "Open-science analytical, numerical, and Monte Carlo simulation suite validating near-field Wireless Power Transfer (WPT) using Coupled-Mode Theory (CMT), Fresnel Reconfigurable Intelligent Surfaces (RIS), phase-conjugate beamforming, and non-linear Schottky rectenna efficiency modeling.",
+  "upload_type": "software",
+  "license": "Apache-2.0",
+  "creators": [
+    {
+      "name": "Wibisono, Ahmad Rifa'i",
+      "affiliation": "Department of Electrical Engineering, Universitas Muhammadiyah Prof. DR. HAMKA (UHAMKA)",
+      "orcid": "0009-0001-0120-5791"
+    }
+  ],
+  "keywords": [
+    "Wireless Power Transfer",
+    "Reconfigurable Intelligent Surfaces",
+    "Coupled-Mode Theory",
+    "Near-Field Beamforming",
+    "Non-Linear Rectenna",
+    "Monte Carlo Simulation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Goldcode1618/Smartwall-WPT-Simulation",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
